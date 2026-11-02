@@ -1,0 +1,39 @@
+
+
+h1{
+    font-family:Courier;
+    font-weight:bolder;
+    color:white;
+    text-align:center;
+    
+}
+
+h2{color:white;
+    font-family:courier;
+}
+p{
+    font-family:courier;
+    color:white;
+
+}
+ul{
+    font-family:courier;
+    color:white;
+}
+body{background-color:rgb(4, 25, 32);
+}
+
+.center{
+    display: block;
+    margin-left: auto; 
+    margin-right: auto; 
+    
+}
+a{
+    color:rgb(226, 226, 151);
+}
+
+div{
+    margin-left:5%;
+    margin-right:5%;
+}
