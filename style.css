@@ -35,6 +35,7 @@ body{
     display: block;
     margin:0 auto; 
     
+    
 }
 a{
     color:rgb(226, 226, 151);
@@ -52,4 +53,8 @@ margin:0 auto;
 .left{
     text-align:left;
     
+    
+}
+img{
+    border: 3px solid rgb(58, 22, 22)
 }
